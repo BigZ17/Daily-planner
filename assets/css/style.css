@@ -29,7 +29,6 @@ textarea{
 
 .description{
   white-space: pre-wrap;
-  background-color: rgb(133, 130, 143);
 }
 
 .time-block{
@@ -50,17 +49,17 @@ textarea{
 }
 
 .past {
-  background-color: #d3d3d3;
+  background-color: #9c0606;
   color: white;
 }
 
 .present {
-  background-color: #ff6961;
+  background-color: #07ad15;
   color: white;
 }
 
 .future {
-  background-color: #77dd77;
+  background-color: #b4da0e;
   color: white;
 }
 
